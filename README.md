@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying cross-platform application development and I.E.S. Playamar
 - 📫 You can reach me at layne_2002@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once had a tarantula as a pet! 🕷️
+- ⚡ Fun fact: I used to have a tarantula as a pet! 🕷️
 
 <!---
 Layne2002/Layne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
