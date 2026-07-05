@@ -19,18 +19,23 @@ Junior Full-Stack Developer based in Berlin, focused on Java, Spring Boot and An
 
 ## Featured Project
 
-### BeatMarket Frontend
+### BeatMarket
 
-Angular frontend for **BeatMarket**, a music e-commerce platform developed as my final degree project.
+Full-stack music e-commerce platform developed as my final degree project.
 
 - Angular and TypeScript frontend
-- JWT authentication integration
+- Spring Boot REST API backend
+- JWT authentication
+- User roles
 - Product catalog and product detail views
-- Shopping cart and order management views
-- Integration with a Spring Boot REST API backend
+- Shopping cart and order management
+- MySQL database
+- Oracle Cloud deployment during development
 
-Repository: [beatmarket-frontend](https://github.com/Layne2002/beatmarket-frontend)
+Repositories:
 
+- [BeatMarket Frontend](https://github.com/Layne2002/beatmarket-frontend)
+- [BeatMarket Backend](https://github.com/Layne2002/beatmarket-backend)
 ## Contact
 
 - Email: karim.rozanov@gmail.com
