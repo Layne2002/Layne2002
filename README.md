@@ -1,11 +1,36 @@
-- 👋 Hi, I’m @Layne2002
-- 👀 I’m interested in rock and metal music, cinema and tv series.
-- 🌱 I’m currently studying cross-platform application development and I.E.S. Playamar
-- 📫 You can reach me at layne_2002@icloud.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to have a tarantula as a pet! 🕷️
+# Hi, I'm Karim Rozanov Zinnatullin
 
-<!---
-Layne2002/Layne2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Junior Full-Stack Developer based in Berlin, focused on Java, Spring Boot and Angular.
+
+## Tech Stack
+
+- **Backend:** Java, Spring Boot, Hibernate/JPA
+- **Frontend:** Angular, TypeScript, HTML, CSS
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, Bitbucket, Maven, Gradle, Postman, Linux, Oracle Cloud
+
+## Featured Project
+
+### BeatMarket
+
+Full-stack e-commerce platform for albums, vinyl records and music products, developed as my final degree project.
+
+- REST API built with Spring Boot
+- Angular frontend
+- JWT authentication
+- User roles
+- Shopping cart and order management
+- MySQL database
+- Backend deployed on Oracle Cloud
+
+## Languages
+
+- Spanish — Native
+- Russian — Native
+- English — C1
+- German — C1
+
+## Contact
+
+- Email: karim.rozanov@gmail.com
+- GitHub: [github.com/Layne2002](https://github.com/Layne2002)
