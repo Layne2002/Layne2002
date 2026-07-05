@@ -2,33 +2,34 @@
 
 Junior Full-Stack Developer based in Berlin, focused on Java, Spring Boot and Angular.
 
+## About Me
+
+- Graduated in Multiplatform Application Development (DAM)
+- Interested in backend development, REST APIs and full-stack web applications
+- Currently looking for junior software development opportunities in Germany and Spain
+- Native Spanish and Russian speaker
+- C1 English and C1 German
+
 ## Tech Stack
 
 - **Backend:** Java, Spring Boot, Hibernate/JPA
-- **Frontend:** Angular, TypeScript, HTML, CSS
+- **Frontend:** Angular, TypeScript, HTML, SCSS
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** Git, Bitbucket, Maven, Gradle, Postman, Linux, Oracle Cloud
 
 ## Featured Project
 
-### BeatMarket
+### BeatMarket Frontend
 
-Full-stack e-commerce platform for albums, vinyl records and music products, developed as my final degree project.
+Angular frontend for **BeatMarket**, a music e-commerce platform developed as my final degree project.
 
-- REST API built with Spring Boot
-- Angular frontend
-- JWT authentication
-- User roles
-- Shopping cart and order management
-- MySQL database
-- Backend deployed on Oracle Cloud
+- Angular and TypeScript frontend
+- JWT authentication integration
+- Product catalog and product detail views
+- Shopping cart and order management views
+- Integration with a Spring Boot REST API backend
 
-## Languages
-
-- Spanish — Native
-- Russian — Native
-- English — C1
-- German — C1
+Repository: [beatmarket-frontend](https://github.com/Layne2002/beatmarket-frontend)
 
 ## Contact
 
